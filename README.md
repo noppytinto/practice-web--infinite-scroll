@@ -21,7 +21,7 @@ infinite scroll demo with Unsplash images
 
 <br/>
 
-## Technologies:
+## Challanges:
 
 - Intersection Observer API
 - Unsplash API
